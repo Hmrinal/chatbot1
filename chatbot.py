@@ -15,7 +15,7 @@ def check():
     r = sr.Recognizer()
     with sr.Microphone() as source:
         audio= r.listen(source)
-        order= r.recognize_google(audio,language="en-in",show_all=True)
+        order= r.recognize_google(audio,language="en-in")
     e2.insert(tk.END,order)
     global x
     x=order.split(' ')
