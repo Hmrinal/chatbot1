@@ -19,6 +19,16 @@ def check():
     e2.insert(tk.END,order)
     global x
     x=order.split(' ')
+    if "how are you" in order:
+        e1.insert(tk.END,"Hey! I am fine, what about you? ")
+    elif "hi" in order:
+        e1.insert(tk.END,"Hey! Good to see you ")
+    elif "hai" in order:
+        e1.insert(tk.END,"Hey! Good to see you ")
+    elif "good morning" in order:
+        e1.insert(tk.END,"Good Morning! Have a great day. ")
+    
+        
     
 
     
@@ -38,7 +48,7 @@ l.place(x=20,y=100)
 l=tk.Label(root,text="You said:")
 l.place(x=20,y=130)
 e2.place(x=20,y=160,height=30,width=180)
-b1=tk.Button(root,text="Speak",bg="red",fg="white",command=check)
+b1=tk.Button(root,text="Speak",bg="white",fg="black",command=check)
 b1.place(x=60,y=210,height=50,width=100)
 
 root.mainloop()
