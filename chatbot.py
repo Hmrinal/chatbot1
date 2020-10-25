@@ -27,7 +27,10 @@ def check():
         e1.insert(tk.END,"Hey! Good to see you ")
     elif "good morning" in order:
         e1.insert(tk.END,"Good Morning! Have a great day. ")
-    
+    elif "good night" in order:
+        e1.insert(tk.END,"Good Night! Hope you had a great day. ")
+    else:
+        e1.insert(tk.END,"I am your friend")
         
     
 
