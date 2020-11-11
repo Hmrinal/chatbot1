@@ -9,6 +9,7 @@ The purpose was to create a basic understanding of Python by building up two cha
 
 A basic knowledge of Tkinter library is provided. The field and button is also given on output side so that manual inputs can be given and then submitted to the bot.
 
+![Example Output](manual_output.png)
 - Autonomous Chatbot:
 
 The input is given as the voice of user via microphone. Required libraries are installed for the same, after which the input is show on the display screen. The output for given input is manually given in the form of ```if-else``` statements, for the time being. The ouput is also shown on display screen, making it a basic model of a chatbot that recognizes your voice and try to understand the words accurately.
