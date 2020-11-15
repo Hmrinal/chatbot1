@@ -20,8 +20,11 @@ The input is given as the voice of user via microphone. Required libraries are i
 Spyder provides variable explorer where all the variables that you build or are obtained can all be viwed at one place. Just click on any variable to see the type of data it is storing.
 
 ![Variables Obtained](variable_explorer.png)
+
 - Variables that were created can be analyzed 
+
 ![Example Output](output.png)
+
 - An example of how the output will appear is shown here. This is done by voice recognition using microphone.
 ## Dependencies
 
