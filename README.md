@@ -12,6 +12,7 @@ A basic knowledge of Tkinter library is provided. The field and button is also g
 Here the replies of the bot are already saved in the system. User have to enter the comments and the bot will provide the replies accordingly.
 
 ![Example Output](manual_output.png)
+
 - An example of how the output will appear is shown here. This is manual written output which requires submission.
 
 ### Autonomous Chatbot:
