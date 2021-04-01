@@ -12,7 +12,6 @@ A basic knowledge of `Tkinter` library is provided. The field and button is also
 Here the replies of the bot are already saved in the system. User have to enter the comments and the bot will provide the replies accordingly.
 
 ![Example Output](manual_output.png)
-
 - An example of how the output will appear is shown here. This is manual written output which requires submission.
 
 ### Autonomous Chatbot:
@@ -22,7 +21,6 @@ The input is given as the voice of user via microphone. Required libraries are i
 Spyder provides variable explorer where all the variables that you build or are obtained can all be viwed at one place. Just click on any variable to see the type of data it is storing.
 
 ![Variables Obtained](variable_explorer.png)
-
 - Variables that were created can be analyzed 
 
 ![Example Output](output.png)
