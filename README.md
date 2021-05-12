@@ -24,7 +24,7 @@ Spyder provides variable explorer where all the variables that you build or are 
 - Variables that were created can be analyzed 
 
 ![Example Output](output.png)
-- An example of how the output will appear is shown here. This is done by voice recognition using microphone.
+- An example of how the output will appear is shown here. This is done by `voice recognition using microphone`.
 
 ## Dependencies
 
