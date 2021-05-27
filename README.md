@@ -9,6 +9,7 @@ The purpose was to create a basic understanding of Python by building up two cha
 ### Manual Chatbot :
 
 A basic knowledge of `Tkinter` library is provided. The field and button is also given on output side so that manual inputs can be given and then submitted to the bot.
+
 Here the replies of the bot are already saved in the system. User have to enter the comments and the bot will provide the replies accordingly.
 
 ![Example Output](manual_output.png)
