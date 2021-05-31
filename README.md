@@ -36,6 +36,5 @@ Spyder provides variable explorer where all the variables that you build or are 
 
 ## 📦 Install
 
-Open the code `chatbot.py` in Spyder after downloading Anaconda and simply run it. Before this download the required modules using `pip install` command so that you can run the code in order to check the output.
-
+Open the code `chatbot.py` in Spyder after downloading Anaconda and simply run it. Before this download the required modules using `pip install` command so that you can run the code in order to check the output.  
 Similarly download or update the other modules and libraries for smooth and error-free running of code run the code line by line by pressing `Ctrl+Enter`, with single or multiple selections.
