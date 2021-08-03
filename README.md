@@ -4,7 +4,7 @@ A chatbot is usually a software application used to conduct an on-line chat conv
 
 ## 🔨 Basic Working 
 
-The purpose was to create a basic understanding of Python by building up two chatbots. The first one is the manual chatbot where one needs to write up in textfield provided and the bot will try to give appropriate reply. The second part is a kind of autonomus version, where we have used libraries to make it able enough that it recognizes human voice.
+The purpose was to create a basic understanding of Python by building up `two chatbots`. The first one is the `manual chatbot` where one needs to write up in textfield provided and the bot will try to give appropriate reply. The second part is a kind of `autonomus version`, where we have used libraries to make it able enough that it recognizes human voice.
 
 ### Manual Chatbot :
 
